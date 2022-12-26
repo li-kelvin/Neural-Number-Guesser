@@ -2,7 +2,7 @@
 
 This is a game developed to predict the digit drawn on screen by the user. It utilizes the MINST digit data set and uses basic neural network model. 
 
-https://user-images.githubusercontent.com/43473112/209578993-9ee5066f-561a-40f5-a95a-90e6a37eec16.mov
+https://user-images.githubusercontent.com/43473112/209579249-5da3dfae-8813-41e1-82eb-9524839dd8da.mov
 
 # Requirements
 - Python 3.6 or below
